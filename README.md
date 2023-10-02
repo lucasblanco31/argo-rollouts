@@ -1,5 +1,5 @@
 # 🐙 Argo Rollouts
-Este repo contiene los archivos utilizados en la charla "Argo Rollouts: deployando en kubernetes como un pro" dictada en la 10ma edición de la Nerdearla. [Link a la charla](https://www.youtube.com/watch?v=sIprvJ2i1lg).
+Este repo contiene los archivos utilizados en la charla **"Argo Rollouts: deployando en kubernetes como un pro"** dictada en la 10ma edición de la Nerdearla. [Link a la charla](https://www.youtube.com/watch?v=sIprvJ2i1lg).
 
 ## 📖 Introducción
 Argo Rollouts nos permite extender las estrategias de upgrade de los deployments en Kubernetes, en el siguiente repo se van a encontrar los archivos necesarios para desplegar un rollout con una imágen demo del proyecto Argo y hacer un test al momento de actualizar.
